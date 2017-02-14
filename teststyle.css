@@ -1,0 +1,35 @@
+html, body {
+    height:100%;
+    background-color: #FFFFFF;
+}
+
+#heading{
+   color: #FFFFFF;
+}
+
+.container{
+  padding: 10%;
+  margin: 0;
+  background-color: #292929;
+  width: 1200px;
+  margin: 0 auto;
+  min-height: 100%;
+}
+
+.row{
+    height: 150px;
+    margin: 5%;
+}
+
+.box{
+    height: 100%;
+    padding: 1%;
+    margin: 0%;
+}
+
+.square{
+	  height: 100%;
+    padding: 2%;
+    background-color: #000000;
+}
+
